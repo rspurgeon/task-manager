@@ -1,0 +1,27 @@
+# .gitignore
+*.env
+
+# Node.js related
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+yarn.lock
+
+# TypeScript compiled output
+dist/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+
